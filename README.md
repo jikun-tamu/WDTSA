@@ -72,20 +72,11 @@ The included pre-trained model (`widedeep_K10_run6_acc0_9519.pt`) achieves **95.
 Features are routed to either the deep or wide pathway based on their temporal characteristics:
 
 - **Deep features**: Temperature, humidity, outage history, dew point
-- **Wide features**: Barometric pressure, wind gust, latitude/longitude
+- **Wide features**: Barometric pressure, wind gust
 
 ## Citation
 
-If you use this code in your research, please cite:
-
-```
-@article{liu2025widedeep,
-  title={A Wide-and-Deep-Based Time Sequence Model for Predicting Power Outages Caused by Extreme Winter Storms},
-  author={Liu, Jikun and Cheng, Yuhan and Lee, Jangjae and Paal, Stephanie and Li, Diya and Zhang, Zhe},
-  journal={},
-  year={2025}
-}
-```
+Citation information TBA.
 
 ## Data Availability
 
